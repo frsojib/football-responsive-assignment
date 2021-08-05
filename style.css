@@ -1,0 +1,48 @@
+/* --------------Common styles -------------- */
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* header section */
+.top-banner{
+    background-color: #2D25A0 ;
+    padding-top: 153px;
+    display: flex;
+}
+h1{
+    color: white;
+    font-size: 64px;
+    margin: 0;
+    padding-bottom: 27px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.content-padding{
+    padding-left: 156px;
+}
+.half-width img{
+    width: 556.01px;
+    height: 438px;
+    padding-bottom: 86px;
+    
+}
+#top-banner-image{
+    padding-right: 140px;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 10px 24px;
+    align-items: center;
+    margin: 0;
+}
+.fa-long-arrow-alt-right{
+    padding-left: 6px;
+    
+}
+/* main section style */
