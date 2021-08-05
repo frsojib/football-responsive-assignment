@@ -46,3 +46,34 @@ h1{
     
 }
 /* main section style */
+.players{
+    padding: 70px 210px 27px 180px;
+    margin-bottom: 165px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 30px;
+    row-gap: 30px;
+}
+.player{
+    width: 330px;
+    height: 474px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    
+}
+.player-details{
+    margin: 0 15px 30px 15px;
+}
+h2{
+    color: #18191F;
+    font-size: 28px;
+}
+.player img{
+    margin:15px 15px 16px 15px;
+    align-items: center;
+}
+p{
+    color: #6C6C6C;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
