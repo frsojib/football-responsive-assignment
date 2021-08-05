@@ -91,3 +91,15 @@ p{
     margin-top: 0;
     margin-bottom: 24px;
 }
+/* footer section */
+.footer{
+    margin: 100px 0 63px 0;
+    text-align: center;
+}
+.footer-image img{
+    width: 25%;
+    height: 20%;
+}
+.fab{
+    padding: 10px;
+}
