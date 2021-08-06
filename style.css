@@ -120,6 +120,35 @@ p{
     margin-bottom: 24px;
 }
 /* -----------------------------------
+------------bonus section style-------------
+--------------------- -------------- */
+.media{
+    background-color: #09053a;
+    padding-bottom: 40px;
+}
+h2{
+    color: white;
+    text-align: center;
+    padding:15px 0 30px 0;
+}
+.tv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.tv img{
+    width: 20%;
+    transition: transform .2s;
+    
+}
+.tv img:hover{
+    transform: scale(1.2);
+    box-shadow: 5px 10px 10px rgb(112, 2, 2);
+}
+
+/* -----------------------------------
 ------------footer section style-------------
 --------------------- -------------- */
 .footer{
